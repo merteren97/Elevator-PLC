@@ -9,7 +9,7 @@ simülasyonunu yine Tiaportal içinde bulunan WinCC’den HMI ekran kullanılara
 Projemde gerçek hayattaki bazı sensörler kullanılamadığı için sensörlerin kontrolü Tiaportal 
 içinden kontrol edilerek bir simülasyon hazırlanmıştır.
 ## Images
-### All the adresses
+### All the Adresses
 ![alt text](https://github.com/merteren97/Elevator-PLC/blob/main/images/1.png?raw=true)
 ### The Simulation
 ![alt text](https://github.com/merteren97/Elevator-PLC/blob/main/images/2.png?raw=true)
